@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/User/ai ml project/ML-Final-Group-Project/note-books/../mlruns/822123860056305252/681a8fe6c37f45e4a880850ac557327e/artifacts
+end_time: 1775407879978
+entry_point_name: ''
+experiment_id: '822123860056305252'
+lifecycle_stage: active
+run_id: 681a8fe6c37f45e4a880850ac557327e
+run_name: Softmax_C1.0_newton-cg
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775407871685
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/User/ai ml project/ML-Final-Group-Project/note-books/../mlruns/955880086730450591/models/m-91aa8c2dfc15428695145e7637c01f79/artifacts
+creation_timestamp: 1775407880361
+experiment_id: '955880086730450591'
+last_updated_timestamp: 1775407887460
+model_id: m-91aa8c2dfc15428695145e7637c01f79
+model_type: null
+name: segment_classifier
+source_run_id: f4a586d25ff446beba29101f3d6a8b8e
+status: 2
+status_message: null

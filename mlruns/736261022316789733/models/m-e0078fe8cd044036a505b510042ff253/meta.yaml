@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/User/ai ml project/ML-Final-Group-Project/note-books/../mlruns/736261022316789733/models/m-e0078fe8cd044036a505b510042ff253/artifacts
+creation_timestamp: 1775407836489
+experiment_id: '736261022316789733'
+last_updated_timestamp: 1775407842630
+model_id: m-e0078fe8cd044036a505b510042ff253
+model_type: null
+name: sgd_regressor_model
+source_run_id: 3b0e1843d4d04671af1a9628c001846f
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/User/ai ml project/ML-Final-Group-Project/note-books/../mlruns/955880086730450591/f4a586d25ff446beba29101f3d6a8b8e/artifacts
+end_time: 1775407887482
+entry_point_name: ''
+experiment_id: '955880086730450591'
+lifecycle_stage: active
+run_id: f4a586d25ff446beba29101f3d6a8b8e
+run_name: SegmentSoftmax_C0.1_lbfgs
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775407880027
+status: 3
+tags: []
+user_id: User

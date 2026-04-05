@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/User/ai ml project/ML-Final-Group-Project/note-books/../mlruns/822123860056305252/models/m-970841f35e574c828ba8023063a2a0a3/artifacts
+creation_timestamp: 1775407849147
+experiment_id: '822123860056305252'
+last_updated_timestamp: 1775407855294
+model_id: m-970841f35e574c828ba8023063a2a0a3
+model_type: null
+name: delivery_classifier
+source_run_id: 84151ad93e744deb825df2679890a2ac
+status: 2
+status_message: null

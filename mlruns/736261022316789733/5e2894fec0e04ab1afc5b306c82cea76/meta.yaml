@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/User/ai ml project/ML-Final-Group-Project/note-books/../mlruns/736261022316789733/5e2894fec0e04ab1afc5b306c82cea76/artifacts
+end_time: 1775407836170
+entry_point_name: ''
+experiment_id: '736261022316789733'
+lifecycle_stage: active
+run_id: 5e2894fec0e04ab1afc5b306c82cea76
+run_name: SGDRegressor_lr0.01_iter1000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775407829749
+status: 3
+tags: []
+user_id: User

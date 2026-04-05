@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/User/ai ml project/ML-Final-Group-Project/note-books/mlruns/124897503759781779/e50c7ab11a7745d9abd4caf2806d3b45/artifacts
+end_time: 1775408611321
+entry_point_name: ''
+experiment_id: '124897503759781779'
+lifecycle_stage: active
+run_id: e50c7ab11a7745d9abd4caf2806d3b45
+run_name: final_segment_pipeline_deployment
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775408603998
+status: 3
+tags: []
+user_id: User
